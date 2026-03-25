@@ -44,7 +44,9 @@ The application is built using the following technologies:
 
 ### 1. Clone the repository
 
-git clone https://github.com/Sina-Khodabakhsh/sql_aq_app.git && cd sql_aq_app
+
+git clone https://github.com/Sina-Khodabakhsh/sql_aq_app.git
+cd sql_aq_app
 
 ---
 
